@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/3d models/Guns/AWP.fbx
+    - Assets/3d models/Guns/AWP.fbx.meta
+    - Assets/3d models/Guns/Cartoony M60.fbx
+    - Assets/3d models/Guns/Cartoony M60.fbx.meta
+    - Assets/3d models/Guns/M4.fbx
+    - Assets/3d models/Guns/M4.fbx.meta
+    - Assets/3d models/Guns/Revolver.fbx
+    - Assets/3d models/Guns/Revolver.fbx.meta
+    - Assets/3d models/Guns/ScopedM4.fbx
+    - Assets/3d models/Guns/ScopedM4.fbx.meta
+    - Assets/3d models/Guns/Spas12.fbx
+    - Assets/3d models/Guns/Spas12.fbx.meta
+    - Assets/3d models/Guns/TommyGuns.fbx
+    - Assets/3d models/Guns/TommyGuns.fbx.meta
+    - Assets/3d models/Guns/USP.fbx
+    - Assets/3d models/Guns/USP.fbx.meta
+    - Assets/GunInfoHolder.cs
+    - Assets/GunInfoHolder.cs.meta
+    - Assets/Prefabs/Guns.meta
+    - Assets/Prefabs/Guns/M4A4.prefab
+    - Assets/Prefabs/Guns/M4A4.prefab.meta
+    - Assets/Prefabs/Guns/M4A4_Pickup.prefab
+    - Assets/Prefabs/Guns/M4A4_Pickup.prefab.meta
+    - Assets/Prefabs/Guns/USP.prefab
+    - Assets/Prefabs/Guns/USP.prefab.meta
+    - Assets/Resources/PhotonPrefabs/PlayerController.prefab
+    - Assets/Scenes/Game.unity
+    - Assets/Scriptable Objects.meta
+    - Assets/Scriptable Objects/Items.meta
+    - Assets/Scriptable Objects/Items/Guns.meta
+    - Assets/Scriptable Objects/Items/Guns/Gun1.asset
+    - Assets/Scriptable Objects/Items/Guns/Gun1.asset.meta
+    - Assets/Scriptable Objects/Items/Guns/Gun2.asset
+    - Assets/Scriptable Objects/Items/Guns/Gun2.asset.meta
+    - Assets/Scripts/GunInfo.cs
+    - Assets/Scripts/Perks & Flaws/Flaws/MagFlaw.cs
+    - Assets/Scripts/Perks & Flaws/Flaws/RangeFlaw.cs
+    - Assets/Scripts/Perks & Flaws/Flaws/RateFlaw.cs
+    - Assets/Scripts/Perks & Flaws/Perks/MagPerk.cs
+    - Assets/Scripts/Perks & Flaws/Perks/RangePerk.cs
+    - Assets/Scripts/Perks & Flaws/Perks/RatePerk.cs
+    - Assets/Scripts/PlayerController.cs
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
